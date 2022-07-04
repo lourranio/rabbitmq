@@ -2,4 +2,7 @@
 
 http://tryrabbitmq.com
 
-![alt](./imagens/exemplo-1.png)
+![alt](./img/tryrabbitmq.com.png)
+
+![alt](https://raw.githubusercontent.com/lourranio/rabbitmq/main/img/tryrabbitmq.com.png)
+https://raw.githubusercontent.com/lourranio/rabbitmq/main/img/tryrabbitmq.com.png
